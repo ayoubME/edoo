@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./rodeodrapo11.png" alt="Rodéodrapo" width="800"/>
+  <img src="./rodeodrapo11.png" alt="Rodéodrapo" width="400"/>
 </p>
 <div align="center">
 
